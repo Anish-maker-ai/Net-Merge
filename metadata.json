@@ -1,0 +1,6 @@
+{
+  "name": "net-merge Control Center",
+  "description": "Combine Wi-Fi, Ethernet, and phone hotspots to use all your internet connections simultaneously with net-merge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
